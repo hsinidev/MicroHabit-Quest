@@ -1,0 +1,23 @@
+﻿App Name: MicroHabit Quest
+Version: 1.0.0
+Platform: Android / iOS
+Category: Gamified Habit / RPG
+Target Market: Global
+Price Model: Free + $3.99/month Pro
+
+Description:
+Turns breaking bad habits or building tiny new ones into a retro text-adventure RPG. Every successful daily streak earns your character XP, gear, and story progression.
+
+Key Features:
+- Create micro-habits as RPG quests (drink water, 5 pushups, read 1 page)
+- Retro pixel art character that levels up with habit streaks
+- Text adventure story that unlocks as you maintain streaks
+- Equipment system: complete 7-day streak to unlock sword, armor, ring
+- Boss battles: skip 3 days and face a habit-boss to continue streak
+- Party mode: form habit-accountability groups as adventuring parties
+- Daily quest log with completion animations
+- 50+ pre-built micro-habit templates
+
+Target Audience: Gamers who want habit tracking, self-improvement enthusiasts ages 16-35
+Competitors: Habitica, SuperBetter, Finch
+Unique Value: Retro RPG narrative that only unlocks if you maintain real-life habits
